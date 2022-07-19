@@ -13,7 +13,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/kilian-paquier/devicon/36f6e74bf6c613179f0a963d3142e418b829fb86/icons/cypressio/cypressio-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
@@ -22,6 +24,7 @@
  
 ### I'm currently learning 
  * Svelte
+ * Playwright
 
 
 ### Connect with me:
