@@ -21,7 +21,6 @@
 ---
  
 ### I'm currently learning 
- * Svelte
  * Playwright
 
 
