@@ -1,8 +1,9 @@
 ## Hi 👋, I'm Muyi
 
 ### I'm interested in;
-* Cybersecurity
 * Software Quality Assurance
+* Cybersecurity
+
 ---
 ### Languages & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" alt="VSCode"/>
