@@ -41,7 +41,7 @@ This repository showcases my experience across **Governance, Risk, Compliance (G
 2. **[Audit Projects](https://github.com/TMuyi/grc-portfolio-projects/tree/main/02_Audit_Projects/)**  
    Internal audit checklists, AD audit lab, findings reports.
 
-3. **[Security Labs](https://github.com/TMuyi/grc-portfolio-projects/tree/main/03_Security_Labs/)**  
+3. **[Security Labs](https://github.com/TMuyi/grc-portfolio-projects/tree/main/03-Labs)**  
    Wazuh SIEM setup, Splunk with Sysmon, detection & monitoring use cases.
 
 4. **[Tools & Scripts](https://github.com/TMuyi/grc-portfolio-projects/tree/main/04_Tools_Scripts/)**  
