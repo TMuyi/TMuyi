@@ -38,16 +38,16 @@ This repository showcases my experience across **Governance, Risk, Compliance (G
 1. **[GRC Documentation](https://github.com/TMuyi/grc-portfolio-projects/tree/main/01-GRC-Documentation)**  
    Policies, risk registers, ISO 27001 gap assessments, GDPR compliance docs.
    
-2. **[Audit Projects](https://github.com/TMuyi/grc-portfolio-projects/tree/main/02_Audit_Projects/)**  
+2. **(WIP)[Audit Projects](https://github.com/TMuyi/grc-portfolio-projects/tree/main/02_Audit_Projects/)**  
    Internal audit checklists, AD audit lab, findings reports.
 
 3. **[Security Labs](https://github.com/TMuyi/grc-portfolio-projects/tree/main/03-Labs)**  
    Wazuh SIEM setup, Splunk with Sysmon, detection & monitoring use cases.
 
-4. **[Tools & Scripts](https://github.com/TMuyi/grc-portfolio-projects/tree/main/04_Tools_Scripts/)**  
+4. **(WIP)[Tools & Scripts](https://github.com/TMuyi/grc-portfolio-projects/tree/main/04_Tools_Scripts/)**  
    Example scripts for auditing, log management, and automation.
 
-5. **[Reports & Writeups](https://github.com/TMuyi/grc-portfolio-projects/tree/main/05_Reports_Writeups/)**  
+5. **(WIP)[Reports & Writeups](https://github.com/TMuyi/grc-portfolio-projects/tree/main/05_Reports_Writeups/)**  
    Incident response simulation, threat modeling, awareness training content.
 
 ---
